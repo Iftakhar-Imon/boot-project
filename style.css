@@ -1,0 +1,404 @@
+.alignleft {
+    float: left;
+    margin-right: 15px;
+}
+.alignright {
+    float: right;
+    margin-left: 15px;
+}
+.aligncenter {
+    display: block;
+    margin: 0 auto 15px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 15px;
+    font-weight: 700;
+}
+
+html,
+body { height: 100% }
+.clear{
+    overflow: hidden;
+}
+.header{
+	height: 100%;
+	/*border: 2px solid gray;*/
+}
+.let3{
+	
+	/*border: 2px solid red;*/
+	/*height: auto;*/
+	/*padding-bottom: -200px;*/
+}
+.let{
+	/*margin-bottom: -150px;*/
+	/*border: 2px solid green;*/
+	position: absolute;
+    
+}
+.let img{
+	width: 100%;
+	
+
+}
+.let1{
+	/*border: 2px solid blue;*/
+	/*margin-top: -40%;*/
+	/*margin-top: 200px;*/
+	padding-top: 200px;
+
+	position: relative;
+	text-align: center;
+	/*transform: translate(0,-50%);*/
+}
+.let1 h1{
+  text-align: center;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 20px;
+  padding-bottom: 20px;
+  color: #989090;
+}
+.let1 i{
+	font-size: 40px;
+	padding-bottom: 20px;
+	color: #898bb9;
+}
+.play-button{
+	margin-bottom: 20px;
+}
+.btn-warning4{
+    color: #F7F3EA;
+    background-color: #fb7373;
+    /*border-color: #EB7D4B;*/
+    margin-left: 15px;
+    margin-top: 10px;
+    width: 150px;
+}
+.let1 h6{
+	color: #989090;
+}
+
+
+/*start platform section*/
+.platform {
+	/*height: 100%;*/
+	/*border: 2px solid green*/
+}
+
+.leb {
+	position: absolute;
+	/*border: 2px solid red;*/
+
+}
+.leb img{
+	width: 100%;
+	/*height: 60%;*/
+}
+.leb2 {
+	position: relative;
+	padding-top: 90px;
+	/*border: 2px solid blue;*/
+	height: 100%;
+	padding-bottom: 192px; 
+}
+.leb2 h5{
+	color:#fb7373;
+}
+.leb2 h1{
+  
+  font-weight: normal;
+  font-size: 30px;
+  word-spacing: 3px;
+  /*line-height: 20px;*/
+  /*padding-bottom: 20px;*/
+  color: #584f4f;
+}
+.leb2 p{
+	color: #5d5757;
+
+}
+
+/*start faeture section*/
+.feature {
+ /*border: 2px solid green;*/
+}
+
+.lab {
+	position: absolute;
+}
+
+.lab2 {
+	position: relative;
+	margin-top: 120px;
+	text-align: center;
+	margin-bottom: 170px;
+}
+.lab2 h5{
+    color:#fb7373;
+    font-size: 20px;
+}
+.lab2 h1{
+	font-weight: normal;
+  font-size: 35px;
+  word-spacing: 5px;
+  /*line-height: 20px;*/
+  /*padding-bottom: 20px;*/
+  color: #584f4f;
+
+}
+.lab2 p{
+	color: #5d5757;
+}
+
+
+ /*start design*/
+.design {
+	height: auto;
+	/*border: 2px solid red;*/
+    padding-bottom: 40px;
+}
+
+.lat {
+	position: absolute;
+}
+.lat img{
+	/*border: 2px solid blue;*/
+	height: 100%;
+	/*margin-bottom: -150px;*/
+	margin-left: -15px;
+	padding-right: 15px;
+	/*padding-bottom: 200px;*/
+}
+
+.lithi {
+	/*height: 100px;*/
+	position: relative;
+	text-align: center;
+	margin-top: 150px;
+
+
+	/*padding-bottom: 100px;*/
+	background-color: transparent;
+}
+.alu img{
+	margin-left: 20px;
+	background-color: #ff898b;
+
+    /*background-color: transparent;*/
+}
+.heavy{
+	/*display: block;*/
+}
+.heavy h5{
+    color:#fb7373;
+    font-size: 20px;
+    display: block;
+}
+.heavy h1{
+  font-weight: normal;
+  font-size: 35px;
+  word-spacing: 5px;
+  /*line-height: 20px;*/
+  /*padding-bottom: 20px;*/
+  color: #584f4f;
+  /*display: block;*/
+
+}
+.heavy p{
+	color: #5d5757;
+	display: inline;
+}
+
+ /*start logo section*/
+.logo {
+	height: 100%;
+}
+.liber{
+	position: absolute;
+}
+.liber img{
+	width: 100%;
+	margin-right: -10px;
+	height: 100%;
+}
+.liber2 {
+	position: relative;
+	text-align: center;
+	margin-top: 90px; 
+	margin-left: 70px;
+	margin-right: 70px;
+	/*margin-bottom: 50px;*/
+}
+.liber2 h3{
+	color: #cac3c3;
+}
+.liber2 h5{
+	color:#fb7373;
+}
+.liber2 p{
+	color: #a09d9d;
+	margin-bottom: 50px;
+}
+.row1 img{
+   margin-right: 50px;
+}
+
+/*start brand section*/
+.brand {
+   /*border: 2px solid green;*/
+   background-color: #f3f0f0;
+}
+
+.cabil {
+	/*border: 2px solid blue;*/
+
+	text-align: center;
+	/*padding-bottom: 50px;*/
+}
+.cabil h5{
+    color:#fb7373;
+    font-size: 20px;
+    display: block;
+}
+.cabil h1{
+     font-weight: normal;
+    font-size: 35px;
+   word-spacing: 5px;
+  /*line-height: 20px;*/
+  /*padding-bottom: 20px;*/
+  color: #584f4f;
+  /*display: block;*/
+}
+.cabil p{
+		color: #5d5757;
+	display: inline;
+
+}
+.cabil2 {
+	/*border: 2px solid red;*/
+	padding-top: 50px;
+}
+.cabil2 img{
+	width: 100%;
+}
+
+/*id section start*/
+.id {
+	/*border: 2px solid green;*/
+	height: 70%;
+	background-color: #323969;
+}
+.cal{
+	text-align: center;
+
+}
+.cal1{
+	padding-top: 70px;
+}
+.cal1 h5{
+     color:#fb7373;
+    font-size: 20px;
+    display: block;
+}
+.cal h1{
+    font-weight: normal;
+    font-size: 35px;
+    word-spacing: 5px;
+    color: #ece9e9;
+}
+.cal2{
+	padding-top: 80px;
+	/*border: 2px solid red;*/
+}
+
+.btn-warning{
+
+	 color: #F7F3EA;
+    background-color: #fb7373;
+    /*border-color: #EB7D4B;*/
+    /*margin-left: 15px;*/
+    margin-top: 10px;
+    width: 190px;
+    display: block;
+}
+
+.form-group {
+	margin-right: 15px;
+	 color: #ece9e9;
+	 /*background-color: transparent;*/
+}
+.form-control{
+	background-color: #474c71;
+}
+.abli{
+	/*border: 2px solid blue;*/
+	margin-top: -50px;
+}
+.hablu{
+	padding-top: 60px;
+	 color: #ece9e9;
+}
+
+/*start footer part*/
+.footer {
+	width: 100%;
+	height: 70%;
+	/*border: 2px solid green;*/
+}
+.lita{
+	/*border: 2px solid blue;*/
+	height: 70%;
+	position: absolute;
+	margin-left: -20px;
+}
+.lita img{
+	/*border: 2px solid red;*/
+	width: 100%;
+	height: 450px;
+	/*margin-left: -20px;*/
+	/*margin-right: 20px;*/
+}
+.litaq{
+	position: relative;
+	padding-top: 50px;
+}
+.litaq2{
+	display: inline-block;
+	/*border:2px solid green;*/
+
+}
+.litaq2 h1{
+	font-weight: normal;
+    font-size: 35px;
+    word-spacing: 5px;
+    /*color: #ece9e9;*/
+    color: #584f4f;
+}
+.litaq2 p{
+	color: #5d5757;
+	display: inline;
+	
+}
+.litaq3 h1{
+	font-weight: normal;
+    font-size: 35px;
+    word-spacing: 5px;
+    /*color: #ece9e9;*/
+    color: #584f4f;
+}
+.litaq3 h5{
+	color: #5d5757;
+}
+.litaq4 h1{
+	padding-top: 5px;
+}
+.navbar-collapse{
+	margin-left: -15px;
+}
+
